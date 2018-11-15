@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))
+* [InsertFieldDialog.cs](./CS/WindowsFormsApplication1/InsertFieldModules/InsertFieldDialog.cs) (VB: [InsertFieldDialog.vb](./VB/WindowsFormsApplication1/InsertFieldModules/InsertFieldDialog.vb))
+* [InsertFieldRichEditHelper.cs](./CS/WindowsFormsApplication1/InsertFieldModules/InsertFieldRichEditHelper.cs) (VB: [InsertFieldRichEditHelper.vb](./VB/WindowsFormsApplication1/InsertFieldModules/InsertFieldRichEditHelper.vb))
+* [ucCREATEDATE.cs](./CS/WindowsFormsApplication1/InsertFieldModules/ucCREATEDATE.cs) (VB: [ucCREATEDATE.vb](./VB/WindowsFormsApplication1/InsertFieldModules/ucCREATEDATE.vb))
+* [ucDOCVARIABLE.cs](./CS/WindowsFormsApplication1/InsertFieldModules/ucDOCVARIABLE.cs) (VB: [ucDOCVARIABLE.vb](./VB/WindowsFormsApplication1/InsertFieldModules/ucDOCVARIABLE.vb))
+* [ucIFFIELD.cs](./CS/WindowsFormsApplication1/InsertFieldModules/ucIFFIELD.cs) (VB: [ucIFFIELD.vb](./VB/WindowsFormsApplication1/InsertFieldModules/ucIFFIELD.vb))
+* [ucPAGENUMBER.cs](./CS/WindowsFormsApplication1/InsertFieldModules/ucPAGENUMBER.cs) (VB: [ucPAGENUMBER.vb](./VB/WindowsFormsApplication1/InsertFieldModules/ucPAGENUMBER.vb))
+<!-- default file list end -->
 # How to implement the "Insert Document Field" dialog (WinForms version)
 
 
